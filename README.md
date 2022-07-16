@@ -14,6 +14,6 @@ With chromium (chrome etc) doesn't work properly, because chromium doesn't set c
 I'll work on it, but I strongly suggest to drop all chromium browser and use firefox/safari/TOR (thus to get a better privacy and better performance)
 
 ## Some pics
-![Output example](https://github.com/albertomorini/albertomorini/blob/main/tablesPlanner/img/github1.png)
-![Output example](https://github.com/albertomorini/albertomorini/blob/main/tablesPlanner/img/github2.png)
-![Output example](https://github.com/albertomorini/albertomorini/blob/main/tablesPlanner/img/github3.png)
+![Output example](https://github.com/albertomorini/tablesPlanner/blob/main/img/github1.png)
+![Output example](https://github.com/albertomorini/tablesPlanner/blob/main/img/github2.png)
+![Output example](https://github.com/albertomorini/tablesPlanner/blob/main/img/github3.png)
