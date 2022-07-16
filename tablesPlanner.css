@@ -1,0 +1,45 @@
+html{
+	font-size: 18px;
+}
+div .holder {
+  position: absolute;
+  z-index: 9;
+  background-color: #f1f1f1;
+  text-align: center;
+  border: 1px solid #d3d3d3;
+  widt: 500px;
+  height: 80px;
+  border-radius: 7px;
+}
+
+div .tableHeader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+  border-radius: 7px;
+}
+
+
+div .room {
+  border: 2px solid;
+  padding: 20px; 
+  width: 400px;
+  height: 300px;
+  resize: both;
+  overflow: auto;
+}
+button{
+  margin-left: 14px;
+}
+.imgDeleteTable{
+  width: 30px;
+  height: 30px;
+  margin-left: -25px;
+  margin-top: -50px;
+}
+.imgWaiter{
+  width: 55px;
+  height: 55px;
+}
